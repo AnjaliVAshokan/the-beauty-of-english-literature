@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body style="background-color: bisque">
+    <h1 style="color: red; font-size: 4em; text-align: center">
+      <i>The Rose That Grew From Concrete 🌹</i>
+    </h1>
+    <pre><p style="color: red; font-family:'Times New Roman', Times, serif; font-size: 3em;">
+    Did you hear about the rose that grew
+    From a crack in the concrete? 
+    Proving nature's law is wrong it
+    learned to walk with out having feet.
+    Funny it seems, but by keeping its dreams,
+    it learned to breathe fresh air. 
+    Long live the rose that grew from concrete
+    when no one else ever cared.
+    </p></pre>
+  </body>
+</html>
